@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ViewBinding</string>
+    <string name="binded_text">Binded text</string>
 </resources>
